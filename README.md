@@ -1,12 +1,2 @@
 # test01
 New design 01
-FDG
-DFG
-DFG
-DFGGF
-GDF
-DGGFD
-DFGGFD
-DFGFD
-DSFGF
-DFG
