@@ -1,14 +1,3 @@
 # test01
 New design 01
-bnoin
-km
-zcx
-zcx
-zc
-zxccx
-zx
-zxccxz
-zxxcz
-zx
-zxccxz
-zxccxz
+
